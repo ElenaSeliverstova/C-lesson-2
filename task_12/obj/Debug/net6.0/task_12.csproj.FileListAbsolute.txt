@@ -1,0 +1,15 @@
+C:\Users\eseli\Desktop\Разработчик\С# 2\task_12\obj\Debug\net6.0\task_12.csproj.AssemblyReference.cache
+C:\Users\eseli\Desktop\Разработчик\С# 2\task_12\obj\Debug\net6.0\task_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eseli\Desktop\Разработчик\С# 2\task_12\obj\Debug\net6.0\task_12.AssemblyInfoInputs.cache
+C:\Users\eseli\Desktop\Разработчик\С# 2\task_12\obj\Debug\net6.0\task_12.AssemblyInfo.cs
+C:\Users\eseli\Desktop\Разработчик\С# 2\task_12\obj\Debug\net6.0\task_12.csproj.CoreCompileInputs.cache
+C:\Users\eseli\Desktop\Разработчик\С# 2\task_12\bin\Debug\net6.0\task_12.exe
+C:\Users\eseli\Desktop\Разработчик\С# 2\task_12\bin\Debug\net6.0\task_12.deps.json
+C:\Users\eseli\Desktop\Разработчик\С# 2\task_12\bin\Debug\net6.0\task_12.runtimeconfig.json
+C:\Users\eseli\Desktop\Разработчик\С# 2\task_12\bin\Debug\net6.0\task_12.dll
+C:\Users\eseli\Desktop\Разработчик\С# 2\task_12\bin\Debug\net6.0\task_12.pdb
+C:\Users\eseli\Desktop\Разработчик\С# 2\task_12\obj\Debug\net6.0\task_12.dll
+C:\Users\eseli\Desktop\Разработчик\С# 2\task_12\obj\Debug\net6.0\refint\task_12.dll
+C:\Users\eseli\Desktop\Разработчик\С# 2\task_12\obj\Debug\net6.0\task_12.pdb
+C:\Users\eseli\Desktop\Разработчик\С# 2\task_12\obj\Debug\net6.0\task_12.genruntimeconfig.cache
+C:\Users\eseli\Desktop\Разработчик\С# 2\task_12\obj\Debug\net6.0\ref\task_12.dll
