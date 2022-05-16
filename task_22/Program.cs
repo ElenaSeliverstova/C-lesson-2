@@ -2,9 +2,10 @@
 // выдает таблицу квадратов чисел от 1 до N
 
 Console.WriteLine("введите число N");
-int lenght = Convert.ToInt32(Console.ReadLine ());
+int num = int.Parse(Console.ReadLine());
 
-for (int i = 1; i <= lenght; i++) 
+Console.WriteLine("|{0,10}|{1,10}|", "число", "квадрат");
+for (int i = 1; i <= num; i++)
 {
-Console.Write(i * i + " ");
+    Console.WriteLine("|{0,10}|{1,10}|", i, i*i);
 }
