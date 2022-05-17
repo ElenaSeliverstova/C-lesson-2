@@ -7,15 +7,15 @@ if (xy == 1)
 {
     Console.WriteLine("обе координаты плюс");
 }
-if (xy == 2)
+else if (xy == 2)
 {
     Console.WriteLine("X минус, Y плюс");
 }
-if (xy == 3)
+else if (xy == 3)
 {
     Console.WriteLine("X минус, Y минус");
 }
-if (xy == 4)
+else if (xy == 4)
 {
     Console.WriteLine("X плюс, Y минус");
 }
