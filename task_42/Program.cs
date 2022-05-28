@@ -9,11 +9,11 @@ Console.Write("Ввведите основание системы счислен
 int baseNum = int.Parse(Console.ReadLine());
 
 int d10 = 1;
-int result = 0;
+long result = 0;
 while(numDec != 0)
 {
     result = result + numDec % baseNum * d10;
-    numDec /= 2;
+    numDec /= baseNum;
     d10 = d10 * 10;
 }
 
